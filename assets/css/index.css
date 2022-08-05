@@ -1,0 +1,84 @@
+.logo{
+    float: left;
+}
+.head {
+    float: right;
+    background: linear-gradient(to top, #175C8A, #0087b6);
+    margin: 5px;
+   
+    
+}
+.head ul li a{
+    padding: 12px;
+    padding-left: 12px;
+} 
+
+
+img {
+    height: 100%;
+    width: 100%;
+}
+#img{
+    z-index: -1;
+}
+h2{
+    margin-top: -35px;
+    margin-left: 10px;
+
+}
+#photo-about .images img{
+    height: 45%;
+    width: 30%;
+    margin-left: 15%;
+    
+}
+.about{
+    width: 40%;
+    height: 30%;
+    margin-left: 46%;
+    margin-top: -35%;
+   
+}
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+span{
+    text-align: center;
+}
+#menu .menues{
+    margin-left: 15%;
+    margin-top: 170px;
+    
+}
+.center{
+    margin-left: -72%;
+}
+#menu .menues span{
+    padding: 20px;
+}
+.goy img{
+    width: 20%;
+    height: 40%;
+    margin-left: 46%;
+    margin-top: -35%;
+   
+}
+body{
+    display: block;
+    margin: 0px;
+    background-color: #175C8A;
+}
+#contact input{
+    font-size: 20px;
+    padding: 15px;
+    padding-top: 10px;
+    margin-left: 15%;
+    margin-top: 60px;
+}
+#contact button{
+    font-size: 25px;
+    margin-top: 30px;
+}
